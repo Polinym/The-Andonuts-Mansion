@@ -1,0 +1,12 @@
+event_inherited();
+name = "Dog dish";
+look_line = [607, 609, 605];
+talk_line = [608, -1, -1];
+take_line = [629, 630, 628];
+has_bone = scr_flag(26);
+scr_use_add(item_Apple, [610, 610, 610], false);
+scr_use_add(item_Bananas, [610, 610, 610], false);
+scr_use_add(item_CanOfPepsC, [610, 610, 610], false);
+scr_use_add(item_Weedkiller, [611, 611, 611], false);
+scr_use_add(item_UnassumingBone, [612, 612, 612], true);
+scr_use_add(item_CanOfWater, [630, 630, 630], false);

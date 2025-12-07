@@ -1,0 +1,1 @@
+scr_door_set(rm_cellar, 4, RIGHT);

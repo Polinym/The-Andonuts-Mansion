@@ -1,0 +1,1 @@
+if not (scr_flag(1)) {visible = false; state = "cuts";}

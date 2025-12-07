@@ -1,0 +1,10 @@
+event_inherited();
+name = "Jeff's bed";
+look_line = [512, 511, 513];
+talk_line = [514, -1, -1];
+take_line = [515, 515, 515];
+use_line = [516, 518, 517];
+scr_use_add(item_LegendaryBat, [519, 520, -1], false);
+scr_use_add(item_TeddyBear, [-1, 521, -1], false);
+scr_use_add(item_VacuumCleaner, [522, 522, 522], false);
+scr_use_add(item_CanOfTermites, [845, 846, 847], false);

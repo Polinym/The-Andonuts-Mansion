@@ -1,0 +1,16 @@
+event_inherited();
+name = "Polinym";
+dir = UP;
+lip_spr = spr_lip;
+look_line = [1145, 1145, 1145];
+scr_cuts_set("talk", 0, obj_cuts_polinym);
+take_line = [1146, 1146, 1146];
+use_line = [1147, 1147, 1147];
+scr_use_add(item_LegendaryBat, [1142, 1142, 1142], false);
+scr_give_add(item_LegendaryBat, [1142, 1142, 1142], false);
+scr_use_add(item_PurpleSlimyMeteor, [1143, 1143, 1143], false);
+scr_give_add(item_PurpleSlimyMeteor, [1143, 1143, 1143], false);
+scr_give_add(item_Flashlight, [1144, 1144, 1144], false);
+scr_use_add(item_Flashlight, [1144, 1144, 1144], false);
+talked_to = false;
+mask_index = sprite_index;

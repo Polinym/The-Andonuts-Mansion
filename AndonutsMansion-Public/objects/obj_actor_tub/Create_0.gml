@@ -1,0 +1,11 @@
+event_inherited();
+name = "Bathtub";
+look_prefix = "in";
+use_prefix = "in";
+look_line = [136, 135, 137];
+talk_line[0] = 138;
+use_line = [136, 139, 139];
+use_item_line = [140, 140, 140];
+scr_use_add(item_LegendaryBat, [161, -1, -1], false);
+scr_use_add(item_TeddyBear, [-1, 141, -1], false);
+scr_use_add(item_CanOfTermites, [830, 831, 831], false);

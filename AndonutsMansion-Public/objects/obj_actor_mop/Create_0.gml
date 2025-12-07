@@ -1,0 +1,11 @@
+event_inherited();
+name = "Really old mop";
+look_line = [894, 895, 896];
+talk_line[0] = 897;
+take_line = [898, 898, 898];
+use_line = [894, 900, 899];
+scr_use_add(item_LegendaryBat, [901, 901, 901], false);
+scr_use_add(item_CanOfTermites, [901, 901, 901], false);
+scr_use_add(item_TeddyBear, [-1, 902, -1], false);
+scr_use_add(item_Scalpel, [903, 903, 903], false);
+item = item_MopHead;

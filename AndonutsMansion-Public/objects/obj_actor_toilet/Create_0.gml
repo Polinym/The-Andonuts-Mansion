@@ -1,0 +1,13 @@
+event_inherited();
+name = "Toilet";
+look_prefix = "inside";
+use_prefix = "in";
+has_opened = scr_any_check(hash);
+look_line = [144, 145, 145];
+talk_line[0] = 146;
+use_line = [147, 148, 149];
+use_item_line = [142, 142, 142];
+scr_use_add(item_TeddyBear, [-1, 143, -1], false);
+scr_use_add(item_CanOfTermites, [832, 833, 834], false);
+scr_use_add(item_PurpleSlimyMeteor, [1178, 1178, 1178], false);
+contents = -1;

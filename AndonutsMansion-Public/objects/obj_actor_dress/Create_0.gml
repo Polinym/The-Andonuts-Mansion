@@ -1,0 +1,11 @@
+event_inherited();
+name = "Tattered red dress";
+look_line = [874, 876, 875];
+talk_line[0] = 877;
+take_line = [878, 880, 879];
+scr_use_add(item_TeddyBear, [-1, 881, -1], false);
+scr_use_add(item_CanOfTermites, [882, 882, 882], false);
+scr_use_add(item_VacuumCleaner, [883, 883, 883], false);
+scr_use_add(item_ColdSaturn, [884, 884, 884], false);
+scr_use_add(item_FrenchDictionary, [885, 885, 885], false);
+item = item_RedDress;

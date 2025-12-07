@@ -1,0 +1,56 @@
+01 - Watched intro
+02 - Party over
+03 - Opened present
+04 - Talked to Bubble monkey
+05 - Gave bananas
+06 - Used carrot key
+07 - Tilted painting
+08 - Spied through well
+09 - Hide char
+10 - Got caught
+11 - Opened grate
+12 - Cellar light on
+13 - Met Rastan
+14 - Doorbell ready
+15 - Met porcbank
+16 - Poisoned porcbank
+17 - Taken mush
+18 - Pushed dungeon key
+19 - Fixed vaccuum
+20 - Opened dungeon door
+21 - Rastan left
+22 - Talked to ghost
+23 - Cleared attic
+24 - Met Laverne
+25 - Talked to Roger
+26 - Used bone
+27 - Sink on
+28 - Cooked can of water
+29 - Cooked Mr. Saturn
+30 - Met Tony
+31 - Defeated Tony
+32 - Gave chicken
+33 - Mouse out
+34 - Mouse dead
+35 - Got scalpel
+36 - Freed Jeff
+37 - Saw Big Ben
+38 - Poured termites
+39 - Met Richard
+40 - Met Dynos
+41 - Met Nick
+42 - Got secret admirer note
+43 - Killed Joey
+44 - Tried note
+45 - Venus moved
+46 - Swapped venus
+47 - Put on dress
+48 - Wearing wig
+49 - Got plan from Rastan
+50 - Used worm
+51 - Dynos left
+52 - Got meteor
+53 - Nuclear babies
+54 - Nuclear babies2
+55 - Moved Andonuts
+56 - Awoke Jan

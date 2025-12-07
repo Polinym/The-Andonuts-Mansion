@@ -1,0 +1,1 @@
+scr_door_set(rm_kitchen, 4, DOWN);

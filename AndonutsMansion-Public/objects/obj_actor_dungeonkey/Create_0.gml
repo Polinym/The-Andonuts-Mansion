@@ -1,0 +1,11 @@
+event_inherited();
+name = "Dungeon key";
+pushed_key = scr_any_check(hash);
+look_line = [371, 371, 371];
+talk_line[0] = 370;
+take_line = [369, 369, 369];
+use_line = [372, 372, 372];
+item = item_DungeonKey;
+scr_use_add(item_LegendaryBat, [373, 373, 373], false);
+scr_use_add(item_TeddyBear, [-1, 374, -1], false);
+scr_use_add(item_Camshaft, [445, 446, -1], false);

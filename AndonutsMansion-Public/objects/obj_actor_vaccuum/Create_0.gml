@@ -1,0 +1,11 @@
+event_inherited();
+name = "Vacuum cleaner";
+can_see = scr_flag(12);
+dark_spr = spr_vaccuum_dark;
+should_check = not can_see;
+look_line = [288, 288, 288];
+talk_line = [287, -1, -1];
+take_line = [288, 288, 288];
+use_line = [288, 288, 288];
+use_item_line = [288, 288, 288];
+fixed = scr_flag(19);

@@ -1,0 +1,1 @@
+scr_door_set(rm_attic, 1, LEFT);

@@ -1,0 +1,11 @@
+event_inherited();
+tilted = scr_flag(7);
+name = "Weird painting";
+look_prefix = "at";
+look_line = [183, 184, 185];
+talk_line[0] = 186;
+take_line = [191, 191, 191];
+use_line = [192, 193, 194];
+scr_use_add(item_LegendaryBat, [188, 187, 190], false);
+scr_use_add(item_TeddyBear, [-1, 189, -1], false);
+scr_use_add(item_GaiaBeam, [-1, -1, 190], false);

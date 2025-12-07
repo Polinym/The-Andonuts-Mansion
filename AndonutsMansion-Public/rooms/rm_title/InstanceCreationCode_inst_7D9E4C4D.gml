@@ -1,0 +1,1 @@
+txt = "   Game by Polinym for#Starman.net Funktastic# Gameplay Summer 2024";

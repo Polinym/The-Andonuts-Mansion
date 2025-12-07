@@ -1,0 +1,16 @@
+txt = "";
+page = 0;
+last_page = 4;
+pos = 0;
+last_pos = 0;
+update = true;
+active = false;
+font = obj_ram.font;
+mode = 0;
+char = obj_ram.char;
+items = -1;
+ani_count = 0;
+ani_wait = 10;
+ani_frame = 0;
+depth = -301;
+delay = true;

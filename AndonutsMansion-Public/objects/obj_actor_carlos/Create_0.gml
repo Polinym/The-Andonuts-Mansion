@@ -1,0 +1,12 @@
+event_inherited();
+name = "Carlos the Plant";
+look_line = [326, 327, 328];
+talk_line = [329, 330, 331];
+take_line = [357, 357, 357];
+use_line = [332, 332, -1];
+scr_use_add(item_TeddyBear, [-1, 333, -1], false);
+scr_use_add(item_CanOfPepsC, [334, 335, 335], false);
+scr_use_add(item_Weedkiller, [336, 337, -1], false);
+scr_use_add(item_LegendaryBat, [338, 339, 340], false);
+scr_give_add(item_Mushroom, [341, -1, -1], false);
+scr_use_add(item_CanOfTermites, [838, 838, 838], false);

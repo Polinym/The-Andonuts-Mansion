@@ -1,0 +1,13 @@
+event_inherited();
+name = "Venus";
+look_line = [1054, 1055, 1056];
+talk_line = [1059, 1059, 1059];
+use_line = [-1, 1060, -1];
+scr_use_add(item_LegendaryBat, [1038, 1037, 1039], false);
+scr_use_add(item_TeddyBear, [-1, 1061, -1], false);
+scr_give_add(item_Bananas, [1040, 1040, 1040], false);
+scr_give_add(item_Apple, [1041, 1041, 1041], false);
+scr_give_add(item_CanOfWater, [1041, 1041, 1041], false);
+scr_give_add(item_Mushroom, [1041, 1041, 1041], false);
+dir = DOWN;
+lip_spr = spr_lips_venus2;

@@ -1,0 +1,1 @@
+txt = "New game##Load game";

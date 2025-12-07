@@ -1,0 +1,1 @@
+function scr_rng(argument0, argument1) {return irandom_range(argument0, argument1);}

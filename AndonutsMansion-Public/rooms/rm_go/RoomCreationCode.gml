@@ -1,0 +1,1 @@
+scr_bgm(bgm_stop);

@@ -1,0 +1,1 @@
+scr_door_set(rm_basement, 1, UP);

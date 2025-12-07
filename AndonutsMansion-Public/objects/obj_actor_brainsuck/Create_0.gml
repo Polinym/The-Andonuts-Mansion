@@ -1,0 +1,13 @@
+event_inherited();
+name = "Brain drain machine";
+look_line = [943, 943, 943];
+talk_line = [944, -1, -1];
+take_line = [948, 948, 948];
+use_line = [945, 946, 947];
+scr_use_add(item_TeddyBear, [-1, 949, -1], false);
+scr_use_add(item_LegendaryBat, [950, 950, 950], false);
+scr_use_add(item_StiffSaturn, [951, 951, 951], false);
+scr_use_add(item_StiffMouse, [951, 951, 951], false);
+scr_use_add(item_ColdSaturn, [945, 952, 952], false);
+scr_use_add(item_CanOfTermites, [953, 953, 953], false);
+scr_use_add(item_FunnyBentTube, [954, 954, 954], false);

@@ -1,0 +1,1 @@
+music = bgm_title;

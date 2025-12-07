@@ -1,0 +1,12 @@
+event_inherited();
+name = "Kitchen Sink";
+look_prefix = "inside";
+turned_on = scr_flag(27);
+look_line = [89, 89, 89];
+talk_line[0] = 90;
+use_line = [91, 92, 92];
+contents = -1;
+is_on = false;
+scr_use_add(item_CanOfTermites, [827, 827, 827], false);
+scr_use_add(item_CanOfWater, [828, 828, 828], false);
+scr_use_add(item_CanOfHotWater, [828, 828, 828], false);

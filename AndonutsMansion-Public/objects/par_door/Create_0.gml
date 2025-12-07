@@ -1,0 +1,16 @@
+event_inherited();
+name = "Door";
+type = "door";
+animate = false;
+use_line = [-1, -1, -1];
+look_line = [29, 29, 29];
+talk_line = [30, 31, 31];
+take_line = [32, 32, 32];
+scr_use_add(item_LegendaryBat, [113, -1, -1], false);
+key = -1;
+use_item_update = false;
+locked = false;
+fow = false;
+door_sound = snd_eb_door;
+door_ini = true;
+queue_cuts = -1;

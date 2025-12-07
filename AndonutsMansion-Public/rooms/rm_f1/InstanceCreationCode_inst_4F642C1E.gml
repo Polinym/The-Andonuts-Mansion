@@ -1,0 +1,1 @@
+scr_door_set(room, 4, LEFT);

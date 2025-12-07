@@ -1,0 +1,1 @@
+if (scr_flag(10)) {instance_destroy();}

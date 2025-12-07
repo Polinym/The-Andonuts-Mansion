@@ -1,0 +1,1 @@
+draw_sprite(spr_btn_mob, image_index, x, y+1024);

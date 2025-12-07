@@ -1,0 +1,1 @@
+scr_door_set(rm_entrance, 2, DOWN);
